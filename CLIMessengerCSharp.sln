@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatFramework", "ChatFramework\ChatFramework.csproj", "{E67734B5-A8A7-47DE-9F8D-BEC5EA6C5769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{8ADACB1D-1010-4286-B161-C9806998AF96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{5F0D146C-69D1-454C-8E29-6EC51FD11D30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E67734B5-A8A7-47DE-9F8D-BEC5EA6C5769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67734B5-A8A7-47DE-9F8D-BEC5EA6C5769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67734B5-A8A7-47DE-9F8D-BEC5EA6C5769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67734B5-A8A7-47DE-9F8D-BEC5EA6C5769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ADACB1D-1010-4286-B161-C9806998AF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADACB1D-1010-4286-B161-C9806998AF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADACB1D-1010-4286-B161-C9806998AF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADACB1D-1010-4286-B161-C9806998AF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0D146C-69D1-454C-8E29-6EC51FD11D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0D146C-69D1-454C-8E29-6EC51FD11D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0D146C-69D1-454C-8E29-6EC51FD11D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0D146C-69D1-454C-8E29-6EC51FD11D30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54607E2B-8895-40E9-90F9-2024860D4929}
+	EndGlobalSection
+EndGlobal
